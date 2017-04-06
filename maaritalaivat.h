@@ -1,0 +1,1 @@
+void maaritalaivat(int poyta[7][7]);

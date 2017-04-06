@@ -1,0 +1,1 @@
+bool laillinenValinta(char a, std::string b);
